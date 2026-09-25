@@ -1,0 +1,27 @@
+{
+  "name": "grounded.io",
+  "version": "1.0.0",
+  "description": "A study tool that will (not) crash your pc if you open a forbidden program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Not implemented'",
+    "dev": "echo 'Not implemented'",
+    "focus": "echo 'Not implemented'",
+    "stop": "echo 'Not implemented'",
+    "format": "echo 'Not implemented'",
+    "lint": "echo 'Not implemented'",
+    "typecheck": "echo 'Not implemented'",
+    "start": "echo 'Not implemented'",
+    "build": "echo 'Not implemented'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NAU-OSS/grounded.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NAU-OSS/grounded/issues"
+  },
+  "homepage": "https://github.com/NAU-OSS/grounded#readme"
+}
