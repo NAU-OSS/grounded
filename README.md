@@ -13,7 +13,7 @@ You will need the following software:
 - Git
 - Node.js 20 or later
 - npm 10 or later
-- Windows 11
+- Supported operating system
 - Permission to run local desktop automation during development
 
 Verify your installation:
