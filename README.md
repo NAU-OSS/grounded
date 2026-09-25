@@ -196,7 +196,7 @@ We use [Semantic Versioning](https://semver.org/) for versioning. For the versio
 
 ## Authors
 
-- **SWBodenhemier** - _Initial work_ - [Your GitHub Profile](https://github.com/swBodenhemier)
+- **SWBodenhemier** - _Initial work_ - [swBodenhemier](https://github.com/swBodenhemier)
 
 See also the list of [contributors](https://github.com/NAU-OSS/grounded/contributors) who participated in this project.
 
